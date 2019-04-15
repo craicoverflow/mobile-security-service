@@ -1,5 +1,3 @@
 .Alert {
-    position: absolute;
-    z-index: 1;
-    right: 1em;
+    margin: .5em;
 }
